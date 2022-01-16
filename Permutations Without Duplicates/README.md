@@ -6,6 +6,6 @@
 
 [Leetcode](https://leetcode.com/problems/permutations/)
 
-[Lintcode](https://www.lintcode.com/problem/permutations/description)
+[LintCode](https://www.lintcode.com/problem/permutations/description)
 
 [InterviewBit](https://www.interviewbit.com/problems/permutations/)
